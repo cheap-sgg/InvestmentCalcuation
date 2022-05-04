@@ -1,4 +1,4 @@
-/*  Copyright (c) 2021 Vincent Helvie.
+/* 
 *
 *   PROGRAM PURPOSE: Calculate total return on investments ~ C implementation 
 *   DATE LAST MODIFED: 4/20/2021 */
